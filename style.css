@@ -1,0 +1,10 @@
+.tarefa {
+    background-color: rgb(232, 232, 232);
+    border-radius: 10px 10px 10px 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.remover {
+    margin-bottom: 5px;
+}
